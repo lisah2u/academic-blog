@@ -14,9 +14,9 @@ role: Researcher in Human Computer Interaction
 
 # Organizations/Affiliations
 organizations:
-- name: Adjunct, Georgetown University, Master of Analytics
+- name: Georgetown University, Master of Analytics
   url: "https://analytics.georgetown.edu"
-- name: Adjunct, University of Baltimore, Interaction Design and Information Architecture (IDIA)
+- name: University of Baltimore, Interaction Design and Information Architecture (IDIA)
   url: "http://www.ubalt.edu/cas/graduate-programs-and-certificates/degree-programs/masters-interaction-design-and-information-architecture/"
 
 # Short bio (displayed in user profile at end of posts)
