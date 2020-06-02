@@ -6,6 +6,7 @@ resources/
 public/
 .Rproj.user
 .Rproj
+.Rhistory
 
 # Mac
 .DS_Store
