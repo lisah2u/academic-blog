@@ -5,3 +5,7 @@
 resources/
 public/
 .Rproj.user
+.Rproj
+
+# Mac
+.DS_Store
