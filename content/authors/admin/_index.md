@@ -13,11 +13,11 @@ superuser: true
 role: Researcher in Human Computer Interaction
 
 # Organizations/Affiliations
-organizations:
-- name: Georgetown University, Master of Analytics
-  url: "https://analytics.georgetown.edu"
-- name: University of Baltimore, Interaction Design and Information Architecture (IDIA)
-  url: "http://www.ubalt.edu/cas/graduate-programs-and-certificates/degree-programs/masters-interaction-design-and-information-architecture/"
+#organizations:
+#- name: Georgetown University, Master of Analytics
+#  url: "https://analytics.georgetown.edu"
+#- name: University of Baltimore, Interaction Design and Information Architecture #(IDIA)
+#  url: "http://www.ubalt.edu/cas/graduate-programs-and-certificates/degree-programs#/masters-interaction-design-and-information-architecture/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study how people interact with technology and how technology affects behavior
@@ -56,4 +56,9 @@ email: "lisah2u@gmail.com"
 #- Visitors
 ---
 
-I work at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP). I studied both computational linguistics and interaction design and strongly believe that NLP capabilities and user experience (UX) design are of most value when they are considered in tandem.
+*I lead teams to design tools for users where language processing under the hood can help them work better and faster.*
+
+This work is situated at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP). Having studied both computational linguistics and interaction design, I strongly believe that NLP capabilities and user experience (UX) design are of most value when they are considered in tandem.
+
+In addition to my day job as a research scientist, I teach for [Georgetown University in the Master of Analytics program](https://analytics.georgetown.edu) and also for [University of Baltimore, graduate programs in Interaction Design and Information Architecture (IDIA)](http://www.ubalt.edu/cas/graduate-programs-and-certificates/degree-programs/masters-interaction-design-and-information-architecture/).
+
